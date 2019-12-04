@@ -55,8 +55,9 @@ print("Number of inversions are", result)
 file1.close
 
 
-# In[ ]:
-
+# In[ ]
+###Output: 100000 is the len of arr
+### 2407905288 Number of Inversions
 
 
 
